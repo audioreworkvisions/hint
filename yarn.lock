@@ -334,11 +334,6 @@
     "@octokit/types" "^6.0.0"
     universal-user-agent "^6.0.0"
 
-"@octokit/openapi-types@^4.0.3":
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/@octokit/openapi-types/-/openapi-types-4.0.3.tgz#857335b0ddb3400fd19f8917b2affb5ee897dd3f"
-  integrity sha512-CXCe1Zzc/WhjpuAEgoUktAinZJ02l6W8q1hDkwBtaonEtO6cjo/3Pyb2J1t5y2q/SvjESDJ77xZ9UVHqQVvihw==
-
 "@octokit/openapi-types@^6.0.0":
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/@octokit/openapi-types/-/openapi-types-6.0.0.tgz#7da8d7d5a72d3282c1a3ff9f951c8133a707480d"
@@ -364,10 +359,10 @@
     "@octokit/types" "^6.13.0"
     deprecation "^2.3.1"
 
-"@octokit/plugin-throttling@^3.4.1":
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/@octokit/plugin-throttling/-/plugin-throttling-3.4.1.tgz#586aaa01ea653019380b137872c6256b0e2f2e5d"
-  integrity sha512-qCQ+Z4AnL9OrXvV59EH3GzPxsB+WyqufoCjiCJXJxTbnt3W+leXbXw5vHrMp4NG9ltw00McFWIxIxNQAzLNoTA==
+"@octokit/plugin-throttling@^3.4.3":
+  version "3.4.3"
+  resolved "https://registry.yarnpkg.com/@octokit/plugin-throttling/-/plugin-throttling-3.4.3.tgz#05bec305e1f4277c7c0da6c2380f341c80459840"
+  integrity sha512-BE32jjuIuGBCm6jxt5h0fJtwo0hVqAqHcsZDgsJiMyCjzOLk5CukUk+OTQGIYn8iGk51vIGde6R3orCrmAqOWg==
   dependencies:
     "@octokit/types" "^6.0.1"
     bottleneck "^2.15.3"
@@ -412,15 +407,7 @@
   dependencies:
     "@types/node" ">= 8"
 
-"@octokit/types@^6.0.0", "@octokit/types@^6.0.1", "@octokit/types@^6.0.3":
-  version "6.8.4"
-  resolved "https://registry.yarnpkg.com/@octokit/types/-/types-6.8.4.tgz#8a212f601792f26791c9ef0e3b7b8d3976e45e62"
-  integrity sha512-iKAMx//mBk74NwXdeKg8kdYO5zb1n6Ypk5uxwM96U35rJQv4Y8lMQxfzhN8QyzQHaZkxQsl28bn+MPEhiqXb7w==
-  dependencies:
-    "@octokit/openapi-types" "^4.0.3"
-    "@types/node" ">= 8"
-
-"@octokit/types@^6.13.0":
+"@octokit/types@^6.0.0", "@octokit/types@^6.0.1", "@octokit/types@^6.0.3", "@octokit/types@^6.13.0":
   version "6.13.0"
   resolved "https://registry.yarnpkg.com/@octokit/types/-/types-6.13.0.tgz#779e5b7566c8dde68f2f6273861dd2f0409480d0"
   integrity sha512-W2J9qlVIU11jMwKHUp5/rbVUeErqelCsO5vW5PKNb7wAXQVUz87Rc+imjlEvpvbH8yUb+KHmv8NEjVZdsdpyxA==

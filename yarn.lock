@@ -829,10 +829,10 @@
   dependencies:
     postcss "7.x.x"
 
-"@types/debug@^4.1.7":
-  version "4.1.7"
-  resolved "https://registry.yarnpkg.com/@types/debug/-/debug-4.1.7.tgz#7cc0ea761509124709b8b2d1090d8f6c17aadb82"
-  integrity sha512-9AonUzyTjXXhEOa0DnqpzZi6VHlqKMswga9EXjpXnnqxwLtdvPPtlO8evrI5D9S6asFRCQ6v+wpiUKbw+vKqyg==
+"@types/debug@^4.1.9":
+  version "4.1.9"
+  resolved "https://registry.yarnpkg.com/@types/debug/-/debug-4.1.9.tgz#906996938bc672aaf2fb8c0d3733ae1dda05b005"
+  integrity sha512-8Hz50m2eoS56ldRlepxSBa6PWEVCtzUo/92HgLc2qTMnotJNIm7xP+UZhyWoYsyOdd5dxZ+NZLb24rsKyFs2ow==
   dependencies:
     "@types/ms" "*"
 

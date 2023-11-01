@@ -1069,10 +1069,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.37.tgz#a3dd8da4eb84a996c36e331df98d82abd76b516e"
   integrity sha512-XYmBiy+ohOR4Lh5jE379fV2IU+6Jn4g5qASinhitfyO71b/sCo6MKsMLF5tc7Zf2CE8hViVQyYSobJNke8OvUw==
 
-"@types/on-headers@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@types/on-headers/-/on-headers-1.0.0.tgz#12e80879ff22257036d3f18310c39de1881d141e"
-  integrity sha512-m5LRgPZzWPHGoEQDbuVuduRMctCW5tDarxi9f7+rYZoJDy7nMHMMrODtqbwPpNjYc6Ilg4vL2NeYAwimJfku3w==
+"@types/on-headers@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@types/on-headers/-/on-headers-1.0.2.tgz#b9aa83ce033baed1db466e4aaa26e4604604740a"
+  integrity sha512-gDCxWF2ummjubHYQ0fTvuq+asqWix0+uBDmHd0RuaG0CA9YHKmfOwjHM4L54eHSkhhoHQ3rW/owXlZPilyOn3A==
   dependencies:
     "@types/node" "*"
 

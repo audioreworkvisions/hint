@@ -994,10 +994,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/listr@^0.14.4":
-  version "0.14.4"
-  resolved "https://registry.yarnpkg.com/@types/listr/-/listr-0.14.4.tgz#6ba2a4206615cf80d79d10f9ba9701c303cd57b6"
-  integrity sha512-+MWvidNujBUgJsi4yMVwEQQwaHe6oHedPSy+dwk3akGEeuIbvhWkK+TGsXSwbFup7Y0cCBb+wzzdD+yGKp7sOg==
+"@types/listr@^0.14.7":
+  version "0.14.7"
+  resolved "https://registry.yarnpkg.com/@types/listr/-/listr-0.14.7.tgz#e27daafbf986469bfec4f4e580deb6df6df529c6"
+  integrity sha512-NnlutIHVCfJE1BkTKE/qCAmJRV2p+VOf28Wj9ytQ3cEg49enXEShBzoiVXCdZnztpNEh70zxbwZZoS9TEz2Jwg==
   dependencies:
     "@types/node" "*"
     rxjs "^6.5.1"

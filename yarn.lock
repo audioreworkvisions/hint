@@ -966,10 +966,10 @@
     "@types/through" "*"
     rxjs "^7.2.0"
 
-"@types/is-ci@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@types/is-ci/-/is-ci-3.0.0.tgz#7e8910af6857601315592436f030aaa3ed9783c3"
-  integrity sha512-Q0Op0hdWbYd1iahB+IFNQcWXFq4O0Q5MwQP7uN0souuQ4rPg1vEYcnIOfr1gY+M+6rc8FGoRaBO1mOOvL29sEQ==
+"@types/is-ci@^3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@types/is-ci/-/is-ci-3.0.3.tgz#6042f2fe12a16b2616deabb11d9a422f46a2ec03"
+  integrity sha512-FdHbjLiN2e8fk9QYQyVYZrK8svUDJpxSaSWLUga8EZS1RGAvvrqM9zbVARBtQuYPeLgnJxM2xloOswPwj1o2cQ==
   dependencies:
     ci-info "^3.1.0"
 
